@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>false</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Steps to close a case</description>
+        <internal_name>cozen_state_to_closed_complete</internal_name>
+        <label_cache>[{"name":"acb6406d-605d-46a5-9825-e370622fefbe.record","label":"1➛COC Documents Record","reference":"x_278895_coc_proje_coc_documents","reference_display":"COC Documents Record","type":"reference","base_type":"reference"},{"name":"acb6406d-605d-46a5-9825-e370622fefbe.table_name","label":"1➛COC Documents Table","reference":"x_278895_coc_proje_coc_documents","reference_display":"COC Documents Table","type":"table_name","base_type":"table_name"},{"name":"Created_1.current","label":"Trigger➛COC Documents Record","reference":"x_278895_coc_proje_coc_documents","reference_display":"COC Documents","type":"reference","base_type":"reference"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Cozen State to Closed Complete</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-22 15:09:47</sys_created_on>
+        <sys_id>80ecd979db51230097d4f36f299619c5</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Cozen State to Closed Complete</sys_name>
+        <sys_package display_value="COC Project Management" source="x_278895_coc_proje">e8edfa05db11230097d4f36f29961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="COC Project Management">e8edfa05db11230097d4f36f29961907</sys_scope>
+        <sys_update_name>sys_hub_flow_80ecd979db51230097d4f36f299619c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-22 15:24:14</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=80ecd979db51230097d4f36f299619c5"/>
+    <sys_variable_value action="delete_multiple" query="document_key=80ecd979db51230097d4f36f299619c5"/>
+</record_update>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>incident</collection>
+        <email_layout/>
+        <message/>
+        <message_html><![CDATA[<p>Dear ${assigned_to},</p>
+<p>&nbsp;</p>
+<p>A case has either been added or modified in the records. Please take a look at the case with matter number:&nbsp;&nbsp;${u_matter_number}</p>
+<p>ServiceNow Number is: ${number}.</p>
+<p>&nbsp;</p>
+<p>&nbsp;Click here to view the&nbsp;Cozen record: ${URI_REF}</p>
+<p>&nbsp;</p>
+<p>Thanks,</p>
+<p>Cozen O'Connor Team</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Cozen Email</name>
+        <sms_alternate/>
+        <subject>A case has been assigned to you</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-22 12:57:05</sys_created_on>
+        <sys_id>4aec3c35db11230097d4f36f299619bb</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Cozen Email</sys_name>
+        <sys_package display_value="COC Project Management" source="x_278895_coc_proje">e8edfa05db11230097d4f36f29961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="COC Project Management">e8edfa05db11230097d4f36f29961907</sys_scope>
+        <sys_update_name>sysevent_email_template_4aec3c35db11230097d4f36f299619bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-22 15:04:02</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>

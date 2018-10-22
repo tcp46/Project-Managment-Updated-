@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_grid_canvas" unload_date="2018-10-22 17:16:05">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA New Tab">e1f441f9db11230097d4f36f2996192b</legacy_page>
+        <name>PA New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-22 13:25:18</sys_created_on>
+        <sys_id>e9f441f9db11230097d4f36f2996192b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_package display_value="COC Project Management" source="x_278895_coc_proje">e8edfa05db11230097d4f36f29961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="COC Project Management">e8edfa05db11230097d4f36f29961907</sys_scope>
+        <sys_update_name>sys_grid_canvas_e9f441f9db11230097d4f36f2996192b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-22 13:25:18</sys_updated_on>
+        <related_items_node>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">e9f441f9db11230097d4f36f2996192b</grid_canvas>
+                <height>6</height>
+                <portal_widget display_value="Created 10-22-2018 09:25:18">e5f481f9db11230097d4f36f299619ce</portal_widget>
+                <posx>0</posx>
+                <posy>10</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-10-22 13:25:18</sys_created_on>
+                <sys_id>6df481f9db11230097d4f36f299619cf</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>e9f441f9db11230097d4f36f2996192b</sys_name>
+                <sys_package display_value="COC Project Management" source="x_278895_coc_proje">e8edfa05db11230097d4f36f29961907</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="COC Project Management">e8edfa05db11230097d4f36f29961907</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_6df481f9db11230097d4f36f299619cf</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-10-22 13:25:18</sys_updated_on>
+                <width>6</width>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone1</dropzone>
+                        <offset>0</offset>
+                        <page display_value="PA New Tab">e1f441f9db11230097d4f36f2996192b</page>
+                        <summary>New Page</summary>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-10-22 13:25:18</sys_created_on>
+                        <sys_id>e5f481f9db11230097d4f36f299619ce</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-10-22 13:25:18</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">e9f441f9db11230097d4f36f2996192b</grid_canvas>
+                                <height>6</height>
+                                <portal_widget display_value="Created 10-22-2018 09:25:18">e5f481f9db11230097d4f36f299619ce</portal_widget>
+                                <posx>0</posx>
+                                <posy>10</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-10-22 13:25:18</sys_created_on>
+                                <sys_id>6df481f9db11230097d4f36f299619cf</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>e9f441f9db11230097d4f36f2996192b</sys_name>
+                                <sys_package display_value="COC Project Management" source="x_278895_coc_proje">e8edfa05db11230097d4f36f29961907</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="COC Project Management">e8edfa05db11230097d4f36f29961907</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_6df481f9db11230097d4f36f299619cf</sys_update_name>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-10-22 13:25:18</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 10-22-2018 09:25:18">e5f481f9db11230097d4f36f299619ce</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-10-22 13:25:18</sys_created_on>
+                                <sys_id>21f481f9db11230097d4f36f299619cf</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-10-22 13:25:18</sys_updated_on>
+                                <value>New Page</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>type</name>
+                                <portal_section display_value="Created 10-22-2018 09:25:18">e5f481f9db11230097d4f36f299619ce</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-10-22 13:25:18</sys_created_on>
+                                <sys_id>6df481f9db11230097d4f36f299619ce</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-10-22 13:25:18</sys_updated_on>
+                                <value>new</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 10-22-2018 09:25:18">e5f481f9db11230097d4f36f299619ce</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-10-22 13:25:18</sys_created_on>
+                                <sys_id>a9f481f9db11230097d4f36f299619ce</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-10-22 13:25:18</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderGadget</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+            </sys_grid_canvas_pane>
+        </related_items_node>
+    </sys_grid_canvas>
+</record_update>

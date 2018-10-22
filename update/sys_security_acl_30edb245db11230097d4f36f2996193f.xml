@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_278895_coc_proje_coc_documents</description>
+        <name>x_278895_coc_proje_coc_documents</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-20 14:18:11</sys_created_on>
+        <sys_id>30edb245db11230097d4f36f2996193f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_278895_coc_proje_coc_documents</sys_name>
+        <sys_package display_value="COC Project Management" source="x_278895_coc_proje">e8edfa05db11230097d4f36f29961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="COC Project Management">e8edfa05db11230097d4f36f29961907</sys_scope>
+        <sys_update_name>sys_security_acl_30edb245db11230097d4f36f2996193f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-20 14:18:11</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

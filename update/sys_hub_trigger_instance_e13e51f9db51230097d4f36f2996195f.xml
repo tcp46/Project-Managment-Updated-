@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_trigger_instance">
+    <sys_hub_trigger_instance action="INSERT_OR_UPDATE">
+        <comment/>
+        <display_text/>
+        <flow display_value="Cozen State to Closed Complete">80ecd979db51230097d4f36f299619c5</flow>
+        <name>Created</name>
+        <remote_sys_id/>
+        <sys_class_name>sys_hub_trigger_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-22 15:15:38</sys_created_on>
+        <sys_id>e13e51f9db51230097d4f36f2996195f</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>record_create</sys_name>
+        <sys_package display_value="COC Project Management" source="x_278895_coc_proje">e8edfa05db11230097d4f36f29961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="COC Project Management">e8edfa05db11230097d4f36f29961907</sys_scope>
+        <sys_update_name>sys_hub_trigger_instance_e13e51f9db51230097d4f36f2996195f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-22 15:24:14</sys_updated_on>
+        <trigger_definition display_value="Created">798916a0c31322002841b63b12d3ae7c</trigger_definition>
+        <trigger_inputs/>
+        <trigger_outputs/>
+        <trigger_type>record_create</trigger_type>
+    </sys_hub_trigger_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=e13e51f9db51230097d4f36f2996195f"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>e13e51f9db51230097d4f36f2996195f</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-22 15:15:38</sys_created_on>
+        <sys_id>213e51f9db51230097d4f36f29961963</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-22 15:15:38</sys_updated_on>
+        <value>x_278895_coc_proje_coc_documents</value>
+        <variable display_value="">cfca92e0c31322002841b63b12d3ae00</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>e13e51f9db51230097d4f36f2996195f</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-22 15:15:38</sys_created_on>
+        <sys_id>e53e51f9db51230097d4f36f29961962</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-22 15:15:38</sys_updated_on>
+        <value>^EQ</value>
+        <variable display_value="">66aadea0c31322002841b63b12d3aebf</variable>
+    </sys_variable_value>
+</record_update>

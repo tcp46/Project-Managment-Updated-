@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="COC Tasks" max_length="40" name="x_278895_coc_proje_coc_tasks" type="collection"/>
+</database>

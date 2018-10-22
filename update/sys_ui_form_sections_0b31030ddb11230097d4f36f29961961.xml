@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="0b31030ddb11230097d4f36f29961961" sys_domain="global" table="x_278895_coc_proje_coc_documents" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-20 14:32:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0331030ddb11230097d4f36f29961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_278895_coc_proje_coc_documents" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">0b31030ddb11230097d4f36f29961961</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">4731030ddb11230097d4f36f2996195f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-20 14:32:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-20 14:32:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b31030ddb11230097d4f36f299619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_278895_coc_proje_coc_documents" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">0b31030ddb11230097d4f36f29961961</sys_ui_form>
+            <sys_ui_section caption="Notes and Checklist" display_value="Notes and Checklist" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">cf31030ddb11230097d4f36f2996195f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-20 14:32:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-20 14:32:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0731030ddb11230097d4f36f299619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_278895_coc_proje_coc_documents" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">0b31030ddb11230097d4f36f29961961</sys_ui_form>
+            <sys_ui_section caption="Descriptions" display_value="Descriptions" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">4b31030ddb11230097d4f36f29961960</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-20 14:32:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-22 14:55:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>559995f5db51230097d4f36f299619a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_278895_coc_proje_coc_documents" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">0b31030ddb11230097d4f36f29961961</sys_ui_form>
+            <sys_ui_section caption="Information Governance" display_value="Information Governance" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">499995f5db51230097d4f36f299619a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-22 14:55:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-22 14:55:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>199995f5db51230097d4f36f299619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_278895_coc_proje_coc_documents" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">0b31030ddb11230097d4f36f29961961</sys_ui_form>
+            <sys_ui_section caption="Identification + Collection" display_value="Identification + Collection" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">0d9995f5db51230097d4f36f299619a3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-22 14:55:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-22 14:55:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>959995f5db51230097d4f36f299619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_278895_coc_proje_coc_documents" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">0b31030ddb11230097d4f36f29961961</sys_ui_form>
+            <sys_ui_section caption="Processing + Review + Analysis" display_value="Processing + Review + Analysis" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">859995f5db51230097d4f36f299619a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-22 14:55:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-22 14:55:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d19995f5db51230097d4f36f299619c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_278895_coc_proje_coc_documents" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">0b31030ddb11230097d4f36f29961961</sys_ui_form>
+            <sys_ui_section caption="Production" display_value="Production" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">019995f5db51230097d4f36f299619a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-22 14:55:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-22 14:55:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>959995f5db51230097d4f36f299619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_278895_coc_proje_coc_documents" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">0b31030ddb11230097d4f36f29961961</sys_ui_form>
+            <sys_ui_section caption="Presentation" display_value="Presentation" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">899995f5db51230097d4f36f299619a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-22 14:55:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_278895_coc_proje_coc_documents</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-20 14:32:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b31030ddb11230097d4f36f29961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_278895_coc_proje_coc_documents</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="COC Project Management" source="x_278895_coc_proje">e8edfa05db11230097d4f36f29961907</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="COC Project Management">e8edfa05db11230097d4f36f29961907</sys_scope>
+            <sys_update_name>sys_ui_form_sections_0b31030ddb11230097d4f36f29961961</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-20 14:32:49</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
