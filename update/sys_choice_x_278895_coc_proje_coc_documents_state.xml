@@ -152,6 +152,25 @@
             <sys_updated_on>2018-10-22 15:02:39</sys_updated_on>
             <value>7</value>
         </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>information governance</label>
+            <language>en</language>
+            <name>x_278895_coc_proje_coc_documents</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-23 14:26:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e9c1e02db51230097d4f36f29961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-23 14:26:41</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>state</element>
             <name>x_278895_coc_proje_coc_documents</name>
