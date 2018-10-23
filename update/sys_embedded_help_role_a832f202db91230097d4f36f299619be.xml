@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_cocprojectmanagement_publishtoapprepo" name="sn_dd_cocprojectmanagement_publishtoapprepo">6c32f202db91230097d4f36f299619bc</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-23 16:01:02</sys_created_on>
+        <sys_id>a832f202db91230097d4f36f299619be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6c32f202db91230097d4f36f299619bc</sys_name>
+        <sys_package display_value="COC Project Management" source="x_278895_coc_proje">e8edfa05db11230097d4f36f29961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="COC Project Management">e8edfa05db11230097d4f36f29961907</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a832f202db91230097d4f36f299619be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-23 16:01:02</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
