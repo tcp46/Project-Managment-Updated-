@@ -1,30 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Notes and Checklist" section_id="cf31030ddb11230097d4f36f2996195f" sys_domain="global" table="x_278895_coc_proje_coc_documents" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-23 20:35:03</sys_created_on>
+            <sys_id>16e0b30adb15230097d4f36f299619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-23 20:35:03</sys_updated_on>
+            <text>This section provides Notes and checklist information.</text>
+            <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
+        </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>activity.xml</element>
+            <element>16e0b30adb15230097d4f36f299619c2</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-22 15:06:30</sys_created_on>
-            <sys_id>b71c1579db51230097d4f36f299619c9</sys_id>
+            <sys_created_on>2018-10-23 20:35:03</sys_created_on>
+            <sys_id>d6e0b30adb15230097d4f36f299619c2</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_formatter/>
             <sys_ui_section caption="Notes and Checklist" display_value="Notes and Checklist" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">cf31030ddb11230097d4f36f2996195f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-22 15:06:30</sys_updated_on>
+            <sys_updated_on>2018-10-23 20:35:03</sys_updated_on>
             <sys_user/>
-            <type>formatter</type>
+            <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>work_notes</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-22 15:06:30</sys_created_on>
-            <sys_id>bb1c1579db51230097d4f36f299619c9</sys_id>
+            <sys_created_on>2018-10-23 20:35:03</sys_created_on>
+            <sys_id>5ae0b30adb15230097d4f36f299619c2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes and Checklist" display_value="Notes and Checklist" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">cf31030ddb11230097d4f36f2996195f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-22 15:06:30</sys_updated_on>
+            <sys_updated_on>2018-10-23 20:35:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +43,13 @@
             <element>inline_checklist_macro</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-22 15:06:30</sys_created_on>
-            <sys_id>3f1c1579db51230097d4f36f299619c9</sys_id>
+            <sys_created_on>2018-10-23 20:35:03</sys_created_on>
+            <sys_id>dae0b30adb15230097d4f36f299619c2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Checklist">ade76621c3200200e280dccdf3d3ae9a</sys_ui_formatter>
             <sys_ui_section caption="Notes and Checklist" display_value="Notes and Checklist" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">cf31030ddb11230097d4f36f2996195f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-22 15:06:30</sys_updated_on>
+            <sys_updated_on>2018-10-23 20:35:03</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>

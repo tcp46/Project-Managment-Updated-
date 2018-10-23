@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Identification + Collection" section_id="0d9995f5db51230097d4f36f299619a3" sys_domain="global" table="x_278895_coc_proje_coc_documents" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_identification</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-23 19:20:06</sys_created_on>
+            <sys_id>e4cf1fcadbd1230097d4f36f29961958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Identification + Collection" display_value="Identification + Collection" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">0d9995f5db51230097d4f36f299619a3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-23 19:20:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Identification + Collection</caption>
             <header>false</header>

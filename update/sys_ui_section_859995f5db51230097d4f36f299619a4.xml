@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Processing + Review + Analysis" section_id="859995f5db51230097d4f36f299619a4" sys_domain="global" table="x_278895_coc_proje_coc_documents" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_6</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-23 19:27:55</sys_created_on>
+            <sys_id>8b81234edbd1230097d4f36f299619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Processing + Review + Analysis" display_value="Processing + Review + Analysis" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">859995f5db51230097d4f36f299619a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-23 19:27:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_price_5</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-23 19:27:55</sys_created_on>
+            <sys_id>0f81234edbd1230097d4f36f299619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Processing + Review + Analysis" display_value="Processing + Review + Analysis" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">859995f5db51230097d4f36f299619a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-23 19:27:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Processing + Review + Analysis</caption>
             <header>false</header>

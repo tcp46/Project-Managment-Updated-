@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Cozen Closed and not active</description>
+        <internal_name>cozen_closed_trigger</internal_name>
+        <label_cache>[{"name":"Updated_1.current","label":"Trigger➛COC Documents Record","reference":"x_278895_coc_proje_coc_documents","reference_display":"COC Documents","type":"reference","base_type":"reference"},{"name":"0c87ce58-7412-4d4e-badb-7f97281dba89.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"0c87ce58-7412-4d4e-badb-7f97281dba89.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"}]</label_cache>
+        <latest_snapshot>5772bb4adb15230097d4f36f29961970</latest_snapshot>
+        <master_snapshot>4c62f74adb15230097d4f36f29961988</master_snapshot>
+        <name>Cozen Closed trigger</name>
+        <outputs/>
+        <remote_trigger_id>2062f74adb15230097d4f36f299619ec</remote_trigger_id>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-23 20:36:24</sys_created_on>
+        <sys_id>1e313fc6db15230097d4f36f29961935</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Cozen Closed trigger</sys_name>
+        <sys_package display_value="COC Project Management" source="x_278895_coc_proje">e8edfa05db11230097d4f36f29961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="COC Project Management">e8edfa05db11230097d4f36f29961907</sys_scope>
+        <sys_update_name>sys_hub_flow_1e313fc6db15230097d4f36f29961935</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-10-23 20:41:57</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=1e313fc6db15230097d4f36f29961935"/>
+    <sys_variable_value action="delete_multiple" query="document_key=1e313fc6db15230097d4f36f29961935"/>
+</record_update>

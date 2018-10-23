@@ -7,12 +7,12 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>0331030ddb11230097d4f36f29961964</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_278895_coc_proje_coc_documents" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">0b31030ddb11230097d4f36f29961961</sys_ui_form>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">4731030ddb11230097d4f36f2996195f</sys_ui_section>
+            <sys_ui_section caption="Cozen O'Connor Cases" display_value="Cozen O'Connor Cases" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">4731030ddb11230097d4f36f2996195f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-20 14:32:49</sys_updated_on>
+            <sys_updated_on>2018-10-23 19:34:36</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
@@ -21,12 +21,12 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>4b31030ddb11230097d4f36f299619ed</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_278895_coc_proje_coc_documents" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">0b31030ddb11230097d4f36f29961961</sys_ui_form>
             <sys_ui_section caption="Notes and Checklist" display_value="Notes and Checklist" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">cf31030ddb11230097d4f36f2996195f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-20 14:32:49</sys_updated_on>
+            <sys_updated_on>2018-10-23 19:34:36</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>2</position>
@@ -111,6 +111,20 @@
             <sys_ui_section caption="Presentation" display_value="Presentation" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">899995f5db51230097d4f36f299619a5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-10-22 14:55:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-23 20:06:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>384aa306db15230097d4f36f299619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_278895_coc_proje_coc_documents" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">0b31030ddb11230097d4f36f29961961</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_278895_coc_proje_coc_documents" sys_domain="global" view="Default view">784aa306db15230097d4f36f299619ed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-23 20:06:00</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_278895_coc_proje_coc_documents</name>

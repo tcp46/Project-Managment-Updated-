@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_trigger_plan">
+    <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
+        <binding_strategy>com.snc.process_flow.engine.binding.RunAlways</binding_strategy>
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"ac62f74adb15230097d4f36f299619ed","name":"plan"}}</plan>
+        <plan_id>1e313fc6db15230097d4f36f29961935</plan_id>
+        <snapshot>5772bb4adb15230097d4f36f29961970</snapshot>
+        <sys_class_name>sys_flow_trigger_plan</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-23 20:41:29</sys_created_on>
+        <sys_id>ac62f74adb15230097d4f36f299619ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2062f74adb15230097d4f36f299619ec</sys_name>
+        <sys_package display_value="COC Project Management" source="x_278895_coc_proje">e8edfa05db11230097d4f36f29961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="COC Project Management">e8edfa05db11230097d4f36f29961907</sys_scope>
+        <sys_update_name>sys_flow_trigger_plan_ac62f74adb15230097d4f36f299619ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-23 20:41:29</sys_updated_on>
+        <trigger display_value="">2062f74adb15230097d4f36f299619ec</trigger>
+    </sys_flow_trigger_plan>
+</record_update>

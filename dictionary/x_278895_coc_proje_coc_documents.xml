@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="task" label="COC Documents" max_length="40" name="x_278895_coc_proje_coc_documents" sizeclass="7" type="collection">
+    <element audit="true" extends="task" label="COC Documents" max_length="40" name="x_278895_coc_proje_coc_documents" sizeclass="12" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Attorney" max_length="30" name="u_attorney" type="string"/>
+        <element label="New Audio" max_length="40" name="u_audio_10" type="audio"/>
+        <element attributes="omit_sys_original=true" label="New Currency" max_length="20" name="u_currency_7" type="currency"/>
         <element attributes="edge_encryption_enabled=true" label="Email Address" max_length="40" name="u_email_address" type="string"/>
         <element label="Expected Finish" max_length="40" name="u_finish" type="glide_date_time"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="New List" max_length="1024" name="u_glide_list_3" type="glide_list"/>
+        <element label="New Icon" max_length="100" name="u_icon_9" type="icon"/>
+        <element label="Has Person every been convicted of felony?" max_length="40" name="u_identification" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Matter Number" max_length="40" name="u_matter_number" type="string"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" default="0" label="Processing Price" max_length="20" name="u_price_5" type="price"/>
         <element dependent="assignment_group" dependent_on_field="assignment_group" label="Request Manager for Approval" max_length="32" name="u_requested" reference="sys_user" type="reference" use_dependent_field="true"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Case Type" max_length="40" name="u_string_4" type="string">
             <choice>
@@ -11,6 +17,7 @@
                 <element inactive_on_update="false" label="Non Criminal" sequence="1" value="non criminal"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Total GB Used" max_length="40" name="u_string_6" type="string"/>
         <element label="Start Date" mandatory="true" max_length="40" name="u_when_needed" type="glide_date_time"/>
     </element>
 </database>
